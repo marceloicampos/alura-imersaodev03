@@ -3,7 +3,7 @@
 body {
     font-family: 'Roboto Mono', monospace;
     min-height: 400px;
-    background-image: url('./files/notes-icon.png');
+    background-image: url('./../aula01/files/notes-icon.png');
     background-color: #000000;
     background-size: 70vh;
     /* background-size: 80vh; */
