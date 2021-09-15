@@ -5,7 +5,8 @@ body {
     min-height: 400px;
     background-image: url('./../aula02/files/ps4-icon.png');
     background-color: #000000;
-    background-size: 100vh;
+    background-size: 85vh;
+    /* background-size: 100vh; */
     background-position: center bottom;
     background-repeat: no-repeat;
 }
@@ -13,7 +14,8 @@ body {
 .container {
     text-align: center;
     padding: 20px;
-    height: 100vh;
+    height: 85vh;
+    /* height: 100vh; */
 }
 
 .page-title {
@@ -37,14 +39,14 @@ body {
     right: 10px;
 }
 
+label {
+    color: white;
+}
+
 input {
     margin: 12px;
     padding: 6px;
     border-radius: 5px;
-}
-
-label {
-    color: white;
 }
 
 button {
@@ -56,5 +58,11 @@ button {
 
 h2 {
     color: #ffffff;
-    font-size: 30px;
+    font-size: 20px;
+}
+
+.foot {
+  text-align: center;
+  position: relative;
+  color: #ffffff;
 }
