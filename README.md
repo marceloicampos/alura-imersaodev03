@@ -12,7 +12,7 @@ Desafio final:
 -   Aulas
 
     -   [x] Aula 01 - Calculadora Média
-    -   [x] Aula 02
+    -   [x] Aula 02 - Conversor de Moedas
     -   [ ] Aula 03
     -   [ ] Aula 04
     -   [ ] Aula 05
