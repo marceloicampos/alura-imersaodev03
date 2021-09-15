@@ -12,7 +12,7 @@ Desafio final:
 -   Aulas
 
     -   [x] Aula 01 - Calculadora Média
-    -   [ ] Aula 02
+    -   [x] Aula 02
     -   [ ] Aula 03
     -   [ ] Aula 04
     -   [ ] Aula 05
