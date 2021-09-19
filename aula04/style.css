@@ -37,7 +37,8 @@ body {
 }
 
 body > img {
-    margin: 0 10px;
+    margin: 0 10px 470px;
+    /* margin: 0 10px; */
 }
 
 img {
@@ -49,3 +50,9 @@ img {
     text-align: center;
     font-size: 24px;
 } */
+
+.foot {
+    text-align: center;
+    position: relative;
+    color: #ffffff;
+  }
