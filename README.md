@@ -11,11 +11,11 @@ Desafio final:
 
 -   Aulas
 
-    -   [x] Aula 01 - Calculadora Média
-    -   [x] Aula 02 - Conversor de Moedas
-    -   [x] Aula 03 - Mentalista
-    -   [x] Aula 04 - Alura Flix
-    -   [ ] Aula 05
+    -   [x] Aula 01 - Calculadora Média (variáveis)
+    -   [x] Aula 02 - Conversor de Moedas (operadores aritméticos)
+    -   [x] Aula 03 - Mentalista (operadores lógicos)
+    -   [x] Aula 04 - Alura Flix (array e listas)
+    -   [ ] Aula 05 - Alura Flix (funções em lista)
     -   [ ] Aula 06
     -   [ ] Aula 07
     -   [ ] Aula 08
@@ -49,3 +49,10 @@ Desafio final:
     -   [ ] Tentar implementar outras versões da estrutura de repetição que fizemos com for, como por exemplo com foreach ou while;
     -   [ ] Criar uma condição para não adicionar filmes repetidos, caso eles já tenham sido adicionados anteriormente;
     -   [ ] Criar um campo e botão para adicionar a imagem pela tela, e não direto no código.
+
+-   Desafios - Aula 05
+
+    -   [ ] Criar um botão para remover um filme na tela;
+    -   [ ] Além de colocar a imagem do filme, também adicionar o nome por meio de outro input;
+    -   [ ] Guardar todos os filmes adicionados em uma lista/array e percorrer essa lista toda vez que quiser imprimir ou remover o filme;
+    -   [ ] Conversor de moedas: criar funções para cada tipo de conversão e chamá-las dependendo do que você quiser fazer, podendo colocar inputs ou botões e quando clicar chamar cada função converteDolar(), converteReal(), converteEuro() e converteBitcoin(), por exemplo.
