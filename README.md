@@ -15,7 +15,7 @@ Desafio final:
     -   [x] Aula 02 - Conversor de Moedas (operadores aritméticos)
     -   [x] Aula 03 - Mentalista (operadores lógicos)
     -   [x] Aula 04 - Alura Flix (array e listas)
-    -   [ ] Aula 05 - Alura Flix (funções em lista)
+    -   [x] Aula 05 - Alura Flix (funções em lista)
     -   [ ] Aula 06
     -   [ ] Aula 07
     -   [ ] Aula 08
