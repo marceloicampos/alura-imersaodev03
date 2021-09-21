@@ -67,3 +67,10 @@ body {
 .form-wrapper button:hover {
     opacity: 0.8;
 }
+
+.foot {
+    text-align: center;
+    position: relative;
+    color: #ffffff;
+    margin: 200px 0px 0px 0px;
+}
