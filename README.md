@@ -16,7 +16,7 @@ Desafio final:
     -   [x] Aula 03 - Mentalista (operadores lógicos)
     -   [x] Aula 04 - Alura Flix (array e listas)
     -   [x] Aula 05 - Alura Flix (funções em lista)
-    -   [ ] Aula 06
+    -   [ ] Aula 06 - Tabela de Classificação (objetos e tabelas)
     -   [ ] Aula 07
     -   [ ] Aula 08
     -   [ ] Aula 09
@@ -56,3 +56,12 @@ Desafio final:
     -   [ ] Além de colocar a imagem do filme, também adicionar o nome por meio de outro input;
     -   [ ] Guardar todos os filmes adicionados em uma lista/array e percorrer essa lista toda vez que quiser imprimir ou remover o filme;
     -   [ ] Conversor de moedas: criar funções para cada tipo de conversão e chamá-las dependendo do que você quiser fazer, podendo colocar inputs ou botões e quando clicar chamar cada função converteDolar(), converteReal(), converteEuro() e converteBitcoin(), por exemplo.
+
+-   Desafios - Aula 06
+
+    -   [ ] Fazer a lógica de quando houver um empate, obrigatoriamente deve ajustar como empate para os demais jogadores;
+    -   [ ] Validar se todos os pontos estão fazendo sentido, tanto o número de empates, quanto derrotas e vitórias com os demais jogadores (impossível haver mais vitórias que derrotas, por exemplo);
+    -   [ ] Adicionar a imagem de cada jogador;
+    -   [ ] Criar um botão para zerar todos os pontos;
+    -   [ ] Criar um botão e inputs (campos de texto) para adicionar novos jogadores, com seus respectivos dados;
+    -   [ ] Utilizar seu jogo preferido para se basear na pontuação da sua tabela de classificação.
