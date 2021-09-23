@@ -68,9 +68,29 @@ body {
     opacity: 0.8;
 }
 
-.foot {
+/* .foot {
     text-align: center;
     position: relative;
     color: #ffffff;
     margin: 200px 0px 0px 0px;
+} */
+
+.foot {
+    text-align: center;
+    color: #ffffff;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #000000;
+    text-align: center;
+}
+
+.foot a {
+    color: #606060;
+    text-decoration: none;
+}
+
+.foot a:hover {
+    text-decoration: underline;
 }
