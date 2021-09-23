@@ -17,7 +17,7 @@ Desafio final:
     -   [x] Aula 04 - Alura Flix (array e listas)
     -   [x] Aula 05 - Alura Flix (funções em lista)
     -   [x] Aula 06 - Tabela de Classificação (objetos e tabelas)
-    -   [ ] Aula 07
+    -   [ ] Aula 07 - Game Super Trunfo (lógica de jogos)
     -   [ ] Aula 08
     -   [ ] Aula 09
     -   [ ] Aula 10
@@ -65,3 +65,9 @@ Desafio final:
     -   [ ] Criar um botão para zerar todos os pontos;
     -   [ ] Criar um botão e inputs (campos de texto) para adicionar novos jogadores, com seus respectivos dados;
     -   [ ] Utilizar seu jogo preferido para se basear na pontuação da sua tabela de classificação.
+
+-   Desafios - Aula 07
+
+-   [ ] Verificar o que acontece caso você não selecione nenhum dos atributos e como solucionar;
+-   [ ] Utilizar personagens que você gosta para criar as cartas e compartilhe com o pessoal lá na comunidade do Discord!;
+-   [ ] Adicionar a imagem do personagem assim que você selecionar a carta dele.
