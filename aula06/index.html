@@ -5,11 +5,14 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="stylesheet" href="./../aula06/style.css" />
-        <script src="./../aula06/script.js"></script>
+        <script async src="./../aula06/script.js"></script>
         <title>Aula 06 - Imersão Dev Alura</title>
     </head>
     <body>
         <h1>Tabela de classificação</h1>
+        <p class="page-subtitle">
+            Vitória soma 3 Pontos, Empate soma 1 Ponto, Derrota subtrai 1 ponto.
+        </p>
         <img
             class="page-logo"
             src="./../aula06/files/logo-imersao-azul.svg"
@@ -29,11 +32,25 @@
                 </tr>
             </thead>
             <tbody id="tabelaJogadores">
+                <!-- <tr>
+                    <td>Rafa</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td></td>
+                    <td>
+                        <button onclick="adicionarVitoria()">Vitória</button>
+                    </td>
+                    <td><button onclick="adicionarEmpate()">Empate</button></td>
+                    <td>
+                        <button onclick="adicionarDerrota()">Derrota</button>
+                    </td>
+                </tr>
                 <tr>
                     <td>Paulo</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
                     <td></td>
                     <td>
                         <button onclick="adicionarVitoria()">Vitória</button>
@@ -44,10 +61,10 @@
                     </td>
                 </tr>
                 <tr>
-                    <td>Rafa</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <td>Gui</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
                     <td></td>
                     <td>
                         <button onclick="adicionarVitoria()">Vitória</button>
@@ -56,7 +73,7 @@
                     <td>
                         <button onclick="adicionarDerrota()">Derrota</button>
                     </td>
-                </tr>
+                </tr> -->
             </tbody>
         </table>
         <a href="https://alura.com.br/" target="_blank">
@@ -66,5 +83,16 @@
                 alt="logo alura"
             />
         </a>
+        <div class="foot">
+            <hr />
+            <footer>
+                <p>
+                    Estudos em HTML5, CSS3 E JAVASCRIPT por
+                    <a href="https://marceloicampos.com/about" target="_blank"
+                        >Marcelo Ildefonso Campos</a
+                    >
+                </p>
+            </footer>
+        </div>
     </body>
 </html>

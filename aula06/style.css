@@ -14,7 +14,7 @@ body {
     background-repeat: no-repeat;
 }
 
-.container {
+/* .container {
     text-align: center;
     padding: 20px;
     height: 100vh;
@@ -23,7 +23,7 @@ body {
 .page-title {
     color: #ffffff;
     margin: 0 0 5px;
-}
+} */
 
 .page-subtitle {
     color: #ffffff;
@@ -45,9 +45,10 @@ body {
 table {
     border: 2px solid white;
     border-collapse: collapse;
-    margin-left: auto;
-    margin-right: auto;
-    font-size: 24px;
+    /* margin-bottom: 560px; specs margin */
+    margin-left: auto; /* specs margin */
+    margin-right: auto; /* specs margin */
+    font-size: 24px; /* specs font table */
 }
 
 h1 {
@@ -59,4 +60,24 @@ tr,
 td {
     border: solid 1px white;
     color: white;
+}
+
+.foot {
+    text-align: center;
+    color: #ffffff;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #000000;
+    text-align: center;
+}
+
+.foot a {
+    color: #606060;
+    text-decoration: none;
+}
+
+.foot a:hover {
+    text-decoration: underline;
 }
