@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" href="./../aula07/style.css" />
+        <script async src="./../aula07/script.js"></script>
+        <title>Aula 07 - Imersão Dev Alura</title>
+    </head>
+    <body>
+        <div class="container">
+            <img
+                class="page-logo"
+                src="./../aula07/files/logo-imersao-marron.png"
+                alt="logo alura imersão dev"
+            />
+            <h1 class="page-title">Game Super Trunfo</h1>
+            <button onclick="sortearCarta()" id="btnSortear">
+                Sortear carta
+            </button>
+            <form id="form">
+                <h2>Escolha o seu atributo</h2>
+                <div class="options" id="opcoes"></div>
+                <button
+                    type="button"
+                    id="btnJogar"
+                    onclick="jogar()"
+                    disabled="false"
+                >
+                    Jogar
+                </button>
+                <div id="resultado"></div>
+            </form>
+        </div>
+        <a href="https://alura.com.br/" target="_blank">
+            <img
+                class="alura-logo"
+                src="https://www.alura.com.br/assets/img/home/alura-logo.svg"
+                alt="logo alura"
+            />
+        </a>
+        <div class="foot">
+            <hr />
+            <footer>
+                <p>
+                    Estudos em HTML5, CSS3 E JAVASCRIPT por
+                    <a href="https://marceloicampos.com/about" target="_blank"
+                        >Marcelo Ildefonso Campos</a
+                    >
+                </p>
+            </footer>
+        </div>
+    </body>
+</html>
