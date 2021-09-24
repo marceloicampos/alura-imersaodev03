@@ -16,21 +16,24 @@
                 alt="logo alura imersão dev"
             />
             <h1 class="page-title">Game Super Trunfo</h1>
-            <button onclick="sortearCarta()" id="btnSortear">
+            <button type="button" onclick="sortearCarta()" id="btnSortear">
                 Sortear carta
             </button>
             <form id="form">
                 <h2>Escolha o seu atributo</h2>
-                <div class="options" id="opcoes"></div>
+                <div class="options" id="escolha"></div>
                 <button
                     type="button"
-                    id="btnJogar"
                     onclick="jogar()"
-                    disabled="false"
+                    id="btnJogar"
+                    disabled="true"
                 >
                     Jogar
                 </button>
                 <div id="resultado"></div>
+                <button type="button" onclick="jogarNovamente()" id="btnReload">
+                    Jogar Novamente
+                </button>
             </form>
         </div>
         <a href="https://alura.com.br/" target="_blank">

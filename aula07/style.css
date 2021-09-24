@@ -82,7 +82,13 @@ h2 {
 }
 
 .options {
+    color: red;
+    font-size: 20px;
+}
+
+#resultado {
     color: white;
+    font-size: 24px;
 }
 
 .foot {
