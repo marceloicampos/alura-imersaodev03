@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" href="./../aula08/style.css" />
+        <script async src="./../aula08/script.js"></script>
+        <title>Aula 08 - Imersão Dev Alura</title>
+    </head>
+    <body>
+        <div class="container">
+            <img
+                class="page-logo"
+                src="./../aula08/files/logo-imersao-marron.png"
+                alt="logo alura imersão dev"
+            />
+            <h1 class="page-title">Visual Super Trunfo</h1>
+            <button onclick="sortearCarta()" id="btnSortear">
+                Sortear carta
+            </button>
+            <form id="form">
+                <h2>Escolha o seu atributo</h2>
+                <div class="wrapper">
+                    <div>
+                        <div id="carta-jogador">
+                            <img
+                                src="./../aula08/files/card-super-trunfo-transparent-ajustado.png"
+                                style="
+                                    width: inherit;
+                                    height: inherit;
+                                    position: absolute;
+                                "
+                            />
+                            <h3></h3>
+                        </div>
+                    </div>
+                    <div>
+                        <div id="carta-maquina" class="carta">
+                            <img
+                                src="./../aula08/files/card-super-trunfo-transparent-ajustado.png"
+                                style="
+                                    width: inherit;
+                                    height: inherit;
+                                    position: absolute;
+                                "
+                            />
+                        </div>
+                    </div>
+                </div>
+                <!-- o button abaixo tem uma class="button-jogar" -->
+                <button
+                    class="button-jogar"
+                    type="button"
+                    onclick="jogar()"
+                    id="btnJogar"
+                    disabled="true"
+                >
+                    Jogar
+                </button>
+                <div id="resultado"></div>
+                <!-- falta inserir um button abaixo onclick="jogarNovamente()" -->
+            </form>
+        </div>
+        <a href="https://alura.com.br/" target="_blank">
+            <img
+                class="alura-logo"
+                src="https://www.alura.com.br/assets/img/home/alura-logo.svg"
+                alt="logo alura"
+            />
+        </a>
+        <div class="foot">
+            <hr />
+            <footer>
+                <p>
+                    Estudos em HTML5, CSS3 E JAVASCRIPT por
+                    <a href="https://marceloicampos.com/about" target="_blank"
+                        >Marcelo Ildefonso Campos</a
+                    >
+                </p>
+            </footer>
+        </div>
+    </body>
+</html>
