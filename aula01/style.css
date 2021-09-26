@@ -5,7 +5,7 @@ body {
     min-height: 400px;
     background-image: url('./../aula01/files/notes-icon.png');
     background-color: #000000;
-    background-size: 70vh;
+    background-size: 65vh;
     /* background-size: 80vh; */
     background-position: center;
     /* background-position: center bottom; */
@@ -14,8 +14,8 @@ body {
 
 .container {
     text-align: center;
-    /* padding: 20px; */
-    height: 90vh;
+    padding: 20px;
+    height: 95vh;
     /* height: 100vh; */
 }
 
