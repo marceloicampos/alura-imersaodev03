@@ -12,6 +12,8 @@ body {
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
+    height: 100vh; /*height for background image */
+    padding-bottom: 25vh; /*padding for background image */
 }
 
 /* .container {
