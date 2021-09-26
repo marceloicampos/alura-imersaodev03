@@ -1,8 +1,11 @@
 var filmsList = [
     './../aula04/files/j-ilha.jpg',
     './../aula04/files/j-chegada.jpg',
-    './../aula04/files/j-yesterday.jpg'
+    './../aula04/files/j-yesterday.jpg',
+    './../aula04/files/j-ilha.jpg'
 ]
+
+document.write('<p>' + 'Listas de Filmes em Array' + '</p>')
 
 for (var i = 0; i < filmsList.length; i++) {
     document.write('<img src=' + filmsList[i] + '>')
