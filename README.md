@@ -19,7 +19,7 @@ Desafio final:
     -   [x] Aula 06 - Tabela de Classificação (objetos e tabelas)
     -   [x] Aula 07 - Game Super Trunfo (lógica de jogos)
     -   [x] Aula 08 - Game Super Trunfo (visual de jogos)
-    -   [ ] Aula 09
+    -   [ ] Aula 09 - Portfólio (figma, html e css)
     -   [ ] Aula 10
 
 -   Desafios - Aula 01
@@ -78,3 +78,9 @@ Desafio final:
 -   [ ] Desenvolver um sistema em que a cada carta que um jogador ganhe, ele fique com a carta do oponente e vice versa;
 -   [ ] Transformar as funções exibirCartaMaquina() e exibirCartaJogador() em apenas uma, chamada exibirCarta(), utilizando para isso a passagem de parâmetros;
 -   [ ] Utilizar seus personagens e jogos preferidos nesse projeto.
+
+-   Desafios - Aula 09
+
+-   [ ] Terminar todo o design que está no figma no link abaixo;
+-   [ ] Adicionar suas redes sociais de forma que quem clique consiga abri-las.
+-   Layout do [Figma Imersão Dev](https://www.figma.com/file/1flmz2iauuNs8JsY6eaBHI/Imers%C3%A3o-Dev---Aula-9?node-id=0%3A1)
