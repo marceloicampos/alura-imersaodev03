@@ -75,7 +75,7 @@ function sortearCarta() {
 
     var sorteCartaPlayer = parseInt(Math.random() * 3)
     while (sorteCartaMachine == sorteCartaPlayer) {
-        // ENQUAnTO o número do jogador for igual ao número da máquina faça o Math.radom até não ser mais igual estrutura de laço
+        // ENQUANTO o número do jogador for igual ao número da máquina faça o Math.radom até não ser mais igual estrutura de laço
         sorteCartaPlayer = parseInt(Math.random() * 3)
     }
     // console.log(sorteCartaPlayer)
@@ -93,10 +93,16 @@ function viewEscolha() {
     var escolhasText = ''
     for (var atributo in cartaPlayer.atributos) {
         escolhasText +=
-            '<input type="checkbox" name="atributo" value="' +
+            '<input type="radio" id="' +
+            atributo +
+            '" name="atributo" value="' +
             atributo +
             '">' +
-            atributo
+            '<label for="' +
+            atributo +
+            '"> ' +
+            atributo +
+            ' </label>'
         // console.log(atributo)
     }
     escolha.innerHTML = escolhasText
