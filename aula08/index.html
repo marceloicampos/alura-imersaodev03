@@ -9,6 +9,7 @@
         <title>Aula 08 - Imersão Dev Alura</title>
     </head>
     <body>
+        <p id="acima"></p>
         <div class="container">
             <img
                 class="page-logo"
@@ -48,20 +49,30 @@
                         </div>
                     </div>
                 </div>
-                <!-- o button abaixo tem uma class="button-jogar" -->
-                <button
-                    class="button-jogar"
-                    type="button"
-                    onclick="jogar()"
-                    id="btnJogar"
-                    disabled="true"
+                <a href="./../aula08/index.html#abaixo">
+                    <button
+                        class="button-jogar"
+                        type="button"
+                        onclick="jogar()"
+                        id="btnJogar"
+                        disabled="true"
+                    >
+                        Jogar
+                    </button></a
                 >
-                    Jogar
-                </button>
                 <div id="resultado"></div>
-                <!-- falta inserir um button abaixo onclick="jogarNovamente()" -->
+                <a href="./../aula08/index.html#acima">
+                    <button
+                        type="button"
+                        onclick="jogarNovamente()"
+                        id="btnReload"
+                    >
+                        Jogar Novamente
+                    </button>
+                </a>
             </form>
         </div>
+        <p id="abaixo"></p>
         <a href="https://alura.com.br/" target="_blank">
             <img
                 class="alura-logo"
