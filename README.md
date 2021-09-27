@@ -18,7 +18,7 @@ Desafio final:
     -   [x] Aula 05 - Alura Flix (funções em lista)
     -   [x] Aula 06 - Tabela de Classificação (objetos e tabelas)
     -   [x] Aula 07 - Game Super Trunfo (lógica de jogos)
-    -   [ ] Aula 08 - Game Super Trunfo (visual de jogos)
+    -   [x] Aula 08 - Game Super Trunfo (visual de jogos)
     -   [ ] Aula 09
     -   [ ] Aula 10
 
