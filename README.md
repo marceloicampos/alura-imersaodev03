@@ -68,32 +68,34 @@ Desafio final:
 
 -   Desafios - Aula 07
 
--   [ ] Verificar o que acontece caso você não selecione nenhum dos atributos e como solucionar;
--   [ ] Utilizar personagens que você gosta para criar as cartas;
--   [ ] Adicionar a imagem do personagem assim que você selecionar a carta dele.
+    -   [ ] Verificar o que acontece caso você não selecione nenhum dos atributos e como solucionar;
+    -   [ ] Utilizar personagens que você gosta para criar as cartas;
+    -   [ ] Adicionar a imagem do personagem assim que você selecionar a carta dele.
 
 -   Desafios - Aula 08
 
--   [ ] Criar de fato um baralho, com várias outras cartas;
--   [ ] Desenvolver um sistema em que a cada carta que um jogador ganhe, ele fique com a carta do oponente e vice versa;
--   [ ] Transformar as funções exibirCartaMaquina() e exibirCartaJogador() em apenas uma, chamada exibirCarta(), utilizando para isso a passagem de parâmetros;
--   [ ] Utilizar seus personagens e jogos preferidos nesse projeto.
+    -   [ ] Criar de fato um baralho, com várias outras cartas;
+    -   [ ] Desenvolver um sistema em que a cada carta que um jogador ganhe, ele fique com a carta do oponente e vice versa;
+    -   [ ] Transformar as funções exibirCartaMaquina() e exibirCartaJogador() em apenas uma, chamada exibirCarta(), utilizando para isso a passagem de parâmetros;
+    -   [ ] Utilizar seus personagens e jogos preferidos nesse projeto.
 
 -   Desafios - Aula 09
 
--   [ ] Terminar todo o design que está no figma no link abaixo;
--   [ ] Adicionar suas redes sociais de forma que quem clique consiga abri-las.
--   Layout do [Figma Imersão Dev](https://www.figma.com/file/1flmz2iauuNs8JsY6eaBHI/Imers%C3%A3o-Dev---Aula-9?node-id=0%3A1)
+    -   [ ] Terminar todo o design que está no figma no link abaixo;
+    -   [ ] Adicionar suas redes sociais de forma que quem clique consiga abri-las.
+    -   Layout do [Figma Imersão Dev](https://www.figma.com/file/1flmz2iauuNs8JsY6eaBHI/Imers%C3%A3o-Dev---Aula-9?node-id=0%3A1)
+
+* * *
 
 -   Próximos Passos - Aula 10
--   Layout do [Figma Imersão Dev](https://www.figma.com/file/I4p9ndfOKgjDKalFwd5ASr/Imers%C3%A3o-Dev---Aula-10?node-id=0%3A1)
--   Vídeo [Inteligência Artificial, Machine Learning, Data Science e Deep Learning](https://www.youtube.com/playlist?list=PLMdYygf53DP7YZiFUtGTWJJlvynRyrna-)
--   Vídeo [Front-end ou Back-end com a Rafa](https://www.youtube.com/playlist?list=PLhkO7OMKgT_oXQtrM2JjR-AzH0-v4kRzn))
--   Vídeo [Flutter](https://www.youtube.com/watch?v=J4BVaXkwmM8)
--   Vídeo [Programação e Tecnologia](https://www.youtube.com/playlist?list=PLhkO7OMKgT_qEXMteR9O0M3DyKq1OvC_h)
--   Vídeo [Front-end](https://www.youtube.com/playlist?list=PLhkO7OMKgT_p3VoB47VHdLGpYTzxYTv8R)
--   Vídeo [Projetos para praticar JS](https://www.youtube.com/playlist?list=PLTcmLKdIkOWntJJVhd0etFmdN8bWXJif9)
--   Vídeo [Sucesso é sorte ou esforço?](https://www.youtube.com/playlist?list=PL-kOa62ayb1yb4WMWID2t9ohnGjXLr8Jy)
--   Vídeo [Como estudar melhor?](https://www.youtube.com/playlist?list=PL-kOa62ayb1wQPeBChJ6KBILRLL2AHoZU)
--   Vídeo [Dev em T](<[xxxxxxx](https://www.alura.com.br/dev-em-t)>)
--
+
+    -   Layout do [Figma Imersão Dev](https://www.figma.com/file/I4p9ndfOKgjDKalFwd5ASr/Imers%C3%A3o-Dev---Aula-10?node-id=0%3A1)
+    -   Vídeo [Inteligência Artificial, Machine Learning, Data Science e Deep Learning](https://www.youtube.com/playlist?list=PLMdYygf53DP7YZiFUtGTWJJlvynRyrna-)
+    -   Vídeo [Front-end ou Back-end com a Rafa](https://www.youtube.com/playlist?list=PLhkO7OMKgT_oXQtrM2JjR-AzH0-v4kRzn))
+    -   Vídeo [Flutter](https://www.youtube.com/watch?v=J4BVaXkwmM8)
+    -   Vídeo [Programação e Tecnologia](https://www.youtube.com/playlist?list=PLhkO7OMKgT_qEXMteR9O0M3DyKq1OvC_h)
+    -   Vídeo [Front-end](https://www.youtube.com/playlist?list=PLhkO7OMKgT_p3VoB47VHdLGpYTzxYTv8R)
+    -   Vídeo [Projetos para praticar JS](https://www.youtube.com/playlist?list=PLTcmLKdIkOWntJJVhd0etFmdN8bWXJif9)
+    -   Vídeo [Sucesso é sorte ou esforço?](https://www.youtube.com/playlist?list=PL-kOa62ayb1yb4WMWID2t9ohnGjXLr8Jy)
+    -   Vídeo [Como estudar melhor?](https://www.youtube.com/playlist?list=PL-kOa62ayb1wQPeBChJ6KBILRLL2AHoZU)
+    -   Vídeo [Dev em T](<[xxxxxxx](https://www.alura.com.br/dev-em-t)>)
