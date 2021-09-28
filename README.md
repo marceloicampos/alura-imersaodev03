@@ -19,7 +19,7 @@ Desafio final:
     -   [x] Aula 06 - Tabela de Classificação (objetos e tabelas)
     -   [x] Aula 07 - Game Super Trunfo (lógica de jogos)
     -   [x] Aula 08 - Game Super Trunfo (visual de jogos)
-    -   [ ] Aula 09 - Portfólio (figma, html e css)
+    -   [x] Aula 09 - Portfólio (figma, html e css)
     -   [ ] Aula 10
 
 -   Desafios - Aula 01
