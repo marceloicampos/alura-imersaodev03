@@ -79,13 +79,13 @@ Seja bem vindo(a) à terceira edição da Imersão DEV Alura. Estes são o códi
     -   [ ] Terminar todo o design que está no figma no link abaixo;
     -   [ ] Adicionar suas redes sociais de forma que quem clique consiga abri-las.
     -   Layout do [Figma Imersão Dev](https://www.figma.com/file/1flmz2iauuNs8JsY6eaBHI/Imers%C3%A3o-Dev---Aula-9?node-id=0%3A1)
- 
+
 -   Desafios - Aula 10
 
     -   [ ] Inserir no rodapé da páginas dados/links de redirecionamento para página pessoal ou redes sociais;
     -   [ ] Publicar a página final em lugar acessível para outras pessoas.
 
-* * *
+---
 
 -   Próximos Passos - Aula 10
 
