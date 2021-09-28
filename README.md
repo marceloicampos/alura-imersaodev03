@@ -98,4 +98,4 @@ Seja bem vindo(a) à terceira edição da Imersão DEV Alura. Estes são o códi
     -   Vídeo [Projetos para praticar JS](https://www.youtube.com/playlist?list=PLTcmLKdIkOWntJJVhd0etFmdN8bWXJif9)
     -   Vídeo [Sucesso é sorte ou esforço?](https://www.youtube.com/playlist?list=PL-kOa62ayb1yb4WMWID2t9ohnGjXLr8Jy)
     -   Vídeo [Como estudar melhor?](https://www.youtube.com/playlist?list=PL-kOa62ayb1wQPeBChJ6KBILRLL2AHoZU)
-    -   Vídeo [Dev em T](<[xxxxxxx](https://www.alura.com.br/dev-em-t)>)
+    -   Vídeo [Dev em T](https://www.alura.com.br/dev-em-t)
