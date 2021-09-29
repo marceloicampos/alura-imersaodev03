@@ -5,7 +5,7 @@ body {
     min-height: 400px;
     background-image: url('./../aula01/files/notes-icon.png');
     background-color: #000000;
-    background-size: 65vh;
+    background-size: 70vh;
     /* background-size: 80vh; */
     background-position: center;
     /* background-position: center bottom; */
@@ -15,20 +15,18 @@ body {
 .container {
     text-align: center;
     padding: 20px;
-    height: 95vh;
-    /* height: 100vh; */
+    height: 100vh;
+    position: relative;
 }
 
 .page-title {
     color: #ffffff;
-    margin: 0 0 0px;
-    /* margin: 0 0 5px; */
+    margin: 0 0 5px;
 }
 
 .page-subtitle {
     color: #ffffff;
-    margin-top: 0px;
-    /* margin-top: 5px; */
+    margin-top: 5px;
 }
 
 .page-logo {
@@ -40,6 +38,36 @@ body {
     position: absolute;
     top: 10px;
     right: 10px;
+}
+
+.nota {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+input {
+    width: 110px;
+    margin: 0px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.nota p {
+    font-size: 18px;
+    font-weight: bolder;
+    color: #000000;
+}
+
+button {
+    margin-top: 4px;
+    padding: 4px;
+    border-radius: 10px;
+    background: white;
 }
 
 /* .foot {
