@@ -7,6 +7,7 @@ body {
     /* background: linear-gradient(236.85deg, #041832 27.26%, #3468a7 96.03%); */
     background-attachment: fixed;
     font-family: 'Roboto', sans-serif;
+    margin-bottom: 96px;
 }
 
 .container {
@@ -15,7 +16,7 @@ body {
     box-shadow: 6px 6px 6px #0e1d2f;
     border-radius: 20px;
     color: #1c1c1c;
-    margin: 72px;
+    margin: 40px;
     padding: 72px;
     max-width: 1280px;
     min-height: 600px;
